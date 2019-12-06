@@ -528,7 +528,7 @@ figure {
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 940px) {
   .tm-activity-block {
     flex-direction: column;
   }
