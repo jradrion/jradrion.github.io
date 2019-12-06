@@ -249,7 +249,7 @@ p:last-child {
 }
 
 .tm-activity-img-container img {
-  width: 280px;
+  width: 180px;
   height: auto;
 }
 
@@ -446,7 +446,7 @@ figure {
 
 @media (min-width: 992px) {
   .tm-activity-block {
-    max-width: 582px;
+    max-width: 982px;
   }
 
   .tm-company-about {
